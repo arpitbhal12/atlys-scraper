@@ -24,5 +24,4 @@ def retry_request(url: str, retries: int = 3, delay: int = 5, proxy: Optional[st
 
 
 def validate_product(product: dict):
-    # Simple validation to ensure product data integrity
     return all(key in product for key in ["product_title", "product_price", "path_to_image"])
