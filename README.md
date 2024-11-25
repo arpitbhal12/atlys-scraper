@@ -33,6 +33,12 @@ Go to the project directory
 cd atlys-scraper
 ```
 
+Switch branch
+
+```
+git checkout atlys-scraper
+```
+
 Install dependencies
 
 ```
