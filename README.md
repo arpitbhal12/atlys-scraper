@@ -24,7 +24,7 @@ This project provides a **FastAPI-based web scraping tool** to scrape product da
 Clone the project
 
 ```
-git clone https://link-to-project
+git clone https://github.com/arpitbhal12/atlys-scraper.git
 ```
 
 Go to the project directory
